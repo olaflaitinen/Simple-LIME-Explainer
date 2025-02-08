@@ -18,30 +18,3 @@ Please refer to [docs/installation.md](docs/installation.md) for installation in
 ## Usage
 
 An example usage script is provided in [examples/run_explainer.py](examples/run_explainer.py). For further details, see [docs/usage.md](docs/usage.md).
-
-## Project Structure
-
-Simple-LIME-Explainer/
-├── .github/
-│   └── workflows/
-│       └── python-app.yml
-├── docs/
-│   ├── installation.md
-│   └── usage.md
-├── examples/
-│   └── run_explainer.py
-├── src/
-│   ├── __init__.py
-│   ├── data.py
-│   ├── lime_explainer.py
-│   ├── model.py
-│   └── utils.py
-├── tests/
-│   ├── __init__.py
-│   ├── test_lime_explainer.py
-│   └── test_model.py
-├── .gitignore
-├── LICENSE
-├── README.md
-├── requirements.txt
-└── setup.py
