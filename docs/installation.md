@@ -12,5 +12,5 @@ Follow these steps to install the project locally.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/simple-lime-explainer.git
+   git clone https://github.com/yourusername/olaflaitinen.git
    cd simple-lime-explainer
